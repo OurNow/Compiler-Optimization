@@ -1,0 +1,7 @@
+program,flag,runtime
+data/raw/matrix_mul.c,-O1,0.0
+data/raw/matrix_mul.c,-O2,0.0
+data/raw/matrix_mul.c,-O3,0.0
+data/raw/bubble_sort.c,-O1,0.0
+data/raw/bubble_sort.c,-O2,0.0
+data/raw/bubble_sort.c,-O3,0.0
